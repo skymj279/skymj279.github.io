@@ -1,3 +1,4 @@
+/* Generelt utseende */
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f2f0f9;
@@ -6,32 +7,34 @@ body {
     padding: 0;
 }
 
-header, footer {
-    background: #d6aadf;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    font-size: 1.5rem;
-    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2); /* Subtler shadow */
-}
-
-h1, h2, h3 {
-    font-family: 'Georgia', serif;
-    color: #6a4c9c;
-}
-
-h2, h3 {
-    text-align: center;
-}
-
-section, .plan, .story, .container {
-    margin: 20px;
+/* Sentrer og begrens bredde */
+main, section, .plan, .story, .container {
+    max-width: 900px;
+    margin: 20px auto;
     padding: 15px;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
+/* Topp og bunn */
+header, footer {
+    background: #d6aadf;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Overskrifter */
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    color: #6a4c9c;
+    text-align: center;
+}
+
+/* Listeelementer */
 ul {
     list-style-type: none;
     padding-left: 0;
@@ -49,6 +52,7 @@ li:hover {
     background-color: #e1c6f3;
 }
 
+/* Kollaps-knapper */
 button.collapsible {
     background-color: #d6aadf;
     color: white;
@@ -65,7 +69,7 @@ button.collapsible {
 
 button.collapsible:hover {
     background-color: #b08bb1;
-    transform: scale(1.05); /* Hover zoom */
+    transform: scale(1.02);
 }
 
 .content {
@@ -76,10 +80,7 @@ button.collapsible:hover {
     border-radius: 5px;
 }
 
-footer {
-    font-size: 1rem;
-}
-
+/* Plan-seksjon */
 .plan-title {
     font-size: 1.3rem;
     color: #6a4c9c;
@@ -91,13 +92,27 @@ footer {
 }
 
 .materials, .functions {
-    font-size: 1.0rem;
+    font-size: 1rem;
     margin-top: 10px;
 }
 
-/* Responsiv forbedring for mobilvisning */
+/* Footer */
+footer {
+    font-size: 1rem;
+}
+
+/* Mobilvennlig layout */
 @media screen and (max-width: 768px) {
     body {
+        font-size: 1rem;
+    }
+
+    header, footer {
+        font-size: 1.2rem;
+        padding: 15px;
+    }
+
+    button.collapsible {
         font-size: 1rem;
     }
 
@@ -109,11 +124,7 @@ footer {
         font-size: 1rem;
     }
 
-    button.collapsible {
-        font-size: 1rem;
-    }
-
-    section, .plan, .story, .container {
+    main, section, .plan, .story, .container {
         margin: 10px;
         padding: 10px;
     }
