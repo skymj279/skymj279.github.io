@@ -1,293 +1,144 @@
 [
-    {
-        "title": "1. Magisk Skogshytte",
-        "description": "Sky kan bygge en koselig, pastellfarget hytte i en magisk skog, laget av tømmer, farget glass og blomster.",
-        "materials": [
-            "Tre (eik, bjørk eller gran)",
-            "Farget glass",
-            "Blomster og planter",
-            "Gjøglersteiner og lys",
-            "Trapper og skulpturer"
-        ],
-        "functions": [
-            "Sovested",
-            "Liten hage med planter som kan brukes til magiske brygg",
-            "Skrivbord med bøker for å registrere eventyr"
-        ]
-    },
-    {
-        "title": "2. Magisk Hage og Botanisk Samling",
-        "description": "En vakker hage for magiske planter og urter, med blomster som lyser om natten.",
-        "materials": [
-            "Jordblokker",
-            "Blomster fra mods som Twilight Forest og Serene Seasons",
-            "Små trær og busker",
-            "Små fontener eller vannkilder"
-        ],
-        "functions": [
-            "Plantebeholdere og hengeplanter",
-            "Magiske trær og urter som kan brukes til forskjellige oppskrifter",
-            "En fontene eller damm for dekorasjon og rolig atmosfære"
-        ]
-    },
-    {
-        "title": "3. Magisk Tårn",
-        "description": "Et tårn som Sky kan bruke til å forske på magi og utforske kraftige magiske krefter.",
-        "materials": [
-            "Stein (brukt til tårnets struktur)",
-            "Krystallblokker",
-            "Glass (for vinduer)",
-            "Bøker og hyller"
-        ],
-        "functions": [
-            "Bibliotek med bøker og magiske skrifter",
-            "Tårn med utsikt over verden",
-            "Røykrør eller magiske lys som genererer energi"
-        ]
-    },
-    {
-        "title": "4. Magisk Skogsrike / By",
-        "description": "En magisk liten by i en skog, med pastellfargede hus og spesielle tak og vinduer.",
-        "materials": [
-            "Farget glass og blomster for dekor",
-            "Trær og busker rundt husene",
-            "Steingjerder eller steinmurer",
-            "Lanterns og lyktestolper"
-        ],
-        "functions": [
-            "Små butikker som selger magiske varer",
-            "Samlingssteder for landsbyboerne",
-            "Små plasser for samlinger"
-        ]
-    },
-    {
-        "title": "5. Flytende Øyer",
-        "description": "Flytende øyer med broene som kan tilknytte dem, dekket av magiske trær og steiner.",
-        "materials": [
-            "Jordblokker for små øyer",
-            "Marmor og steiner",
-            "Farget glass og blomster"
-        ],
-        "functions": [
-            "Portaler til andre dimensjoner",
-            "Flytende trær og steiner",
-            "Lys og dekorative elementer"
-        ]
-    },
-    {
-        "title": "6. Magisk Portal / Dimensjonsport",
-        "description": "En portal laget av krystallblokker som kan føre Sky til forskjellige dimensjoner.",
-        "materials": [
-            "Krystallblokker",
-            "Farget glass eller steiner"
-        ],
-        "functions": [
-            "Portal til en annen dimensjon",
-            "Magisk ramme for portalen"
-        ]
-    },
-    {
-        "title": "7. Magisk Speilrom",
-        "description": "Et rom fylt med speil og glass som skaper et eventyrlig, drømmende rom.",
-        "materials": [
-            "Glass og speilblokker",
-            "Ulike farger på steiner og lyseffekter"
-        ],
-        "functions": [
-            "Lyseffekter og speil som skaper en magisk atmosfære",
-            "Mulighet for introspeksjon og utforskning"
-        ]
-    },
-    {
-        "title": "8. Magisk Transportnettverk",
-        "description": "Skap et magisk transportsystem ved å bruke Create-modifikasjonens mekanismer for å frakte varer, ressurser, og magiske skapninger mellom forskjellige steder.",
-        "materials": [
-            "Vognbaner og transportbånd",
-            "Farget glass for dekorative lys",
-            "Treverk og metall for strukturer",
-            "Maskindeler for mekaniske bevegelser"
-        ],
-        "functions": [
-            "Automatisk transport av varer og ressurser",
-            "Interaktive plattformer og heiser",
-            "Magiske lys som leder vei"
-        ]
-    },
-    {
-        "title": "9. Magiske Maskiner for Trolldom",
-        "description": "Lag et laboratorium hvor Sky kan bruke Create-modifikasjonens maskiner til å produsere magiske potions og runer som hun kan bruke til å forvandle ting.",
-        "materials": [
-            "Metall, stein og treverk for maskiner",
-            "Glassbeholdere og flasker",
-            "Magiske steiner og blomster for trolldom"
-        ],
-        "functions": [
-            "Automatisert produksjon av magiske potions",
-            "Magiske maskiner som kan forvandle objekter",
-            "Runer som kan forsterke magiske krefter"
-        ]
-    },
-    {
-        "title": "10. Automatisert Skattjakt",
-        "description": "Lag et system som automatisk skjuler skatter og ledetråder, og som blir aktivert når Sky finner bestemte nøkkelgjenstander eller løsninger på magiske gåter.",
-        "materials": [
-            "Transportbånd og mekaniske armer",
-            "Skatter som gull, smykker og magiske objekter",
-            "Trykkplater og sensorer for å utløse hemmeligheter"
-        ],
-        "functions": [
-            "Skattejaktsystem som aktiveres ved spesifikke handlinger",
-            "Gåter og feller som utfordrer spilleren",
-            "Hemmelige rom og skatter som finnes gjennom mekaniske systemer"
-        ]
-    },
-    {
-        "title": "11. Magisk Hage med Automatisk Vanning",
-        "description": "Skap en hage med magiske planter og et automatisk vannesystem som bruker Create-modifikasjonens mekanismer for å holde plantene friske og magiske.",
-        "materials": [
-            "Farget glass og blomstermønstre",
-            "Vannkanaler og mekaniske vanningssystemer",
-            "Stein og treverk for hageinngjerding"
-        ],
-        "functions": [
-            "Automatisk vanning for magiske planter",
-            "Planter som gir spesielle effekter eller potions",
-            "Interaktive blomster og vekster som reagerer på spilleren"
-        ]
-    },
-    {
-        "title": "12. Flygende Øyer med Skapninger",
-        "description": "Bruk Create-mod til å lage svevende øyer som kan transporteres rundt i luften. Dette kan være hjem til magiske skapninger eller steder for eventyr.",
-        "materials": [
-            "Treverk og stein for øyer og plattformer",
-            "Maskindeler som lar øyer flyttes",
-            "Magiske gjenstander for å tiltrekke skapninger"
-        ],
-        "functions": [
-            "Svevende øyer som kan transporteres rundt",
-            "Hjem for magiske skapninger som kan hjelpe Sky",
-            "Områder for rolige eventyr og utforskning"
-        ]
-    },
-
-    {
-        "title": "13. Automatisk Magisk Gruvemaskin",
-        "description": "Bygg en automatisk gruve som bruker Create-modifikasjonen for å hente ressurser og ComputerCraft-datamaskiner for å analysere og logge utvinning av magiske steiner.",
-        "materials": [
-            "Trepilarer, jern og kobber",
-            "Mekaniske deler og bånd",
-            "Magiske steiner og krystaller",
-            "ComputerCraft-datamaskiner og skjermer"
-        ],
-        "functions": [
-            "Automatisert gruvedrift med Create-modifikasjonens mekanismer",
-            "ComputerCraft-datamaskiner for å logge og analysere utvinning av steiner",
-            "Automatisk oppbevaring av ressurser og informasjon om utvinning"
-        ]
-    },
-    {
-        "title": "14. Magisk Energiproduksjonssystem",
-        "description": "Lag et system som genererer magisk energi ved hjelp av Create-modifikasjonens vannhjul og mekanismer, og bruker ComputerCraft til å overvåke energinivåer og kontrollere bruken.",
-        "materials": [
-            "Steinblokker, treverk og mekaniske deler",
-            "Krystallblokker for magisk energi",
-            "Vannkilder og rør for energigenerering",
-            "ComputerCraft-datamaskiner for energiovervåkning"
-        ],
-        "functions": [
-            "Genererer magisk energi gjennom vannkraft og mekaniske systemer",
-            "ComputerCraft-datamaskiner for å overvåke energinivåer og styre bruken",
-            "Automatisk aktivering av energikrevende enheter"
-        ]
-    },
-    {
-        "title": "15. Magisk Maskinlaboratorium",
-        "description": "Skap et laboratorium hvor Sky kan bruke både Create-modifikasjonen og ComputerCraft til å lage magiske maskiner som automatiserer trolldom og brygging av potions.",
-        "materials": [
-            "Jern, kobber og glass",
-            "Magiske steiner og potions",
-            "Maskindeler fra Create-modifikasjonen",
-            "ComputerCraft-datamaskiner og kontrollpaneler"
-        ],
-        "functions": [
-            "Bruker Create-modifikasjonen til å bygge mekaniske trolldomsutstyr",
-            "ComputerCraft-datamaskiner til å styre og overvåke prosessene",
-            "Automatisering av potionbrygging og magiske eksperimenter"
-        ]
-    },
-    {
-        "title": "16. Magisk Transportnettverk med Datalogging",
-        "description": "Bygg et magisk transportsystem ved hjelp av Create-modifikasjonen for å frakte varer, og ComputerCraft for å logge og spore transporten i sanntid.",
-        "materials": [
-            "Vognbaner, transportbånd og jern",
-            "Farget glass og mekaniske deler",
-            "ComputerCraft-datamaskiner og logger",
-            "Krystallblokker og dekorative elementer"
-        ],
-        "functions": [
-            "Bruker Create-modifikasjonen til å bygge et transportnettverk",
-            "ComputerCraft-datamaskiner for å logge og spore transport av varer",
-            "Sanntidsovervåking av transportstatus og energiforbruk"
-        ]
-    },
-    {
-        "title": "17. Automatisert Magisk Labyrint",
-        "description": "Lag en labyrint som kan endre seg automatisk, med mekaniske dører og feller styrt av ComputerCraft, og som gir magiske utfordringer for Sky.",
-        "materials": [
-            "Steinblokker, metall og mekaniske deler",
-            "Magiske steiner og feller",
-            "ComputerCraft-datamaskiner for å styre labyrinten",
-            "Lanterner og fargerike lys"
-        ],
-        "functions": [
-            "Automatisk endring av labyrintens struktur ved hjelp av mekaniske systemer",
-            "Bruker ComputerCraft til å styre feller og dører",
-            "Magiske hindringer og utfordringer for spilleren"
-        ]
-    },
-    {
-        "title": "18. Magisk Datamaskin for Forvandling",
-        "description": "Lag en datamaskin som kan bruke magiske steiner og ComputerCraft til å forvandle objekter i Minecraft-verdenen ved hjelp av spesifikke kommandoer.",
-        "materials": [
-            "ComputerCraft-datamaskiner, skjermer og tastaturer",
-            "Magiske steiner og krystaller",
-            "Maskindeler fra Create-modifikasjonen",
-            "Glass og metall"
-        ],
-        "functions": [
-            "Bruker ComputerCraft til å kontrollere magiske transformasjoner",
-            "Magiske steiner for å aktivere forvandlingene",
-            "Automatisk forvandling av objekter som trær, blokker og andre ressurser"
-        ]
-    },
-    {
-        "title": "19. Automatisert Skattjakt med Datalogging",
-        "description": "Skap et system hvor Sky kan utforske og finne skatter ved hjelp av Create-modifikasjonens mekanismer og ComputerCraft for å registrere og overvåke skattjakten.",
-        "materials": [
-            "Jern, gull og steinblokker",
-            "Mekaniske armer og transportbånd",
-            "ComputerCraft-datamaskiner for skattelogg og analyse",
-            "Skatter som gull og edelstener"
-        ],
-        "functions": [
-            "Bruker mekaniske systemer fra Create til å skjule og avsløre skatter",
-            "ComputerCraft-datamaskiner for å logge og overvåke skattjakten",
-            "Skattejaktsystem som aktiveres av spesifikke handlinger"
-        ]
-    },
-    {
-        "title": "20. Magisk Skapningsfanger",
-        "description": "Skap et system som fanger og holder magiske skapninger ved hjelp av Create-modifikasjonens mekaniske fangstsystemer og ComputerCraft for å overvåke og styre skapningene.",
-        "materials": [
-            "Trepilarer, metall og mekaniske deler",
-            "Magiske fangstkrystaller",
-            "ComputerCraft-datamaskiner for skapningsovervåkning",
-            "Glass og steinblokker"
-        ],
-        "functions": [
-            "Bruker Create-modifikasjonen for å bygge fangstsystemer",
-            "ComputerCraft-datamaskiner for å styre og overvåke fangede skapninger",
-            "Magiske krystaller for å tiltrekke og fange skapninger"
-        ]
-    }
+  {
+    "title": "1. Magisk Skogshytte",
+    "description": "Sky kan bygge en koselig, pastellfarget hytte i en magisk skog, laget av tømmer, farget glass og blomster.",
+    "materials": [
+      "Tre (eik, bjørk eller gran)",
+      "Farget glass",
+      "Blomster og planter",
+      "Gjøglersteiner og lys",
+      "Trapper og skulpturer"
+    ],
+    "functions": [
+      "Sovested",
+      "Liten hage med planter som kan brukes til magiske brygg",
+      "Skrivbord med bøker for å registrere eventyr"
+    ]
+  },
+  {
+    "title": "2. Magisk Hage og Botanisk Samling",
+    "description": "En vakker hage for magiske planter og urter, med blomster som lyser om natten.",
+    "materials": [
+      "Jordblokker",
+      "Blomster fra mods som Twilight Forest og Serene Seasons",
+      "Små trær og busker",
+      "Små fontener eller vannkilder"
+    ],
+    "functions": [
+      "Plantebeholdere og hengeplanter",
+      "Magiske trær og urter som kan brukes til forskjellige oppskrifter",
+      "En fontene eller dam for dekorasjon og rolig atmosfære"
+    ]
+  },
+  {
+    "title": "3. Magisk Tårn",
+    "description": "Et tårn som Sky kan bruke til å forske på magi og utforske kraftige magiske krefter.",
+    "materials": [
+      "Stein (brukt til tårnets struktur)",
+      "Krystallblokker",
+      "Glass (for vinduer)",
+      "Bøker og hyller"
+    ],
+    "functions": [
+      "Bibliotek med bøker og magiske skrifter",
+      "Tårn med utsikt over verden",
+      "Røykrør eller magiske lys som genererer energi"
+    ]
+  },
+  {
+    "title": "4. Magisk Skogsrike / By",
+    "description": "En magisk liten by i en skog, med pastellfargede hus og spesielle tak og vinduer.",
+    "materials": [
+      "Farget glass og blomster for dekor",
+      "Trær og busker rundt husene",
+      "Steingjerder eller steinmurer",
+      "Lykter og lyktestolper"
+    ],
+    "functions": [
+      "Små butikker som selger magiske varer",
+      "Samlingssteder for landsbyboerne",
+      "Små plasser for samlinger"
+    ]
+  },
+  {
+    "title": "5. Flytende Øyer",
+    "description": "Flytende øyer med broer som kan tilknytte dem, dekket av magiske trær og steiner.",
+    "materials": [
+      "Jordblokker for små øyer",
+      "Marmor og steiner",
+      "Farget glass og blomster"
+    ],
+    "functions": [
+      "Portaler til andre dimensjoner",
+      "Flytende trær og steiner",
+      "Lys og dekorative elementer"
+    ]
+  },
+  {
+    "title": "6. Magisk Portal / Dimensjonsport",
+    "description": "En portal laget av krystallblokker som kan føre Sky til forskjellige dimensjoner.",
+    "materials": [
+      "Krystallblokker",
+      "Farget glass eller steiner"
+    ],
+    "functions": [
+      "Portal til en annen dimensjon",
+      "Magisk ramme for portalen"
+    ]
+  },
+  {
+    "title": "7. Magisk Speilrom",
+    "description": "Et rom fylt med speil og glass som skaper et eventyrlig, drømmende rom.",
+    "materials": [
+      "Glass og speilblokker",
+      "Ulike farger på steiner og lyseffekter"
+    ],
+    "functions": [
+      "Lyseffekter og speil som skaper en magisk atmosfære",
+      "Mulighet for introspeksjon og utforskning"
+    ]
+  },
+  {
+    "title": "8. Magisk Transportnettverk",
+    "description": "Skap et magisk transportsystem ved å bruke Create-modifikasjonens mekanismer for å frakte varer, ressurser og magiske skapninger mellom forskjellige steder.",
+    "materials": [
+      "Vognbaner og transportbånd",
+      "Farget glass for dekorative lys",
+      "Treverk og metall for strukturer",
+      "Maskindeler for mekaniske bevegelser"
+    ],
+    "functions": [
+      "Automatisk transport av varer og ressurser",
+      "Interaktive plattformer og heiser",
+      "Magiske lys som leder vei"
+    ]
+  },
+  {
+    "title": "9. Magiske Maskiner for Trolldom",
+    "description": "Lag et laboratorium hvor Sky kan bruke Create-modifikasjonens maskiner til å produsere magiske potions og runer som hun kan bruke til å forvandle ting.",
+    "materials": [
+      "Metall, stein og treverk for maskiner",
+      "Glassbeholdere og flasker",
+      "Magiske steiner og blomster for trolldom"
+    ],
+    "functions": [
+      "Automatisert produksjon av magiske potions",
+      "Magiske maskiner som kan forvandle objekter",
+      "Runer som kan forsterke magiske krefter"
+    ]
+  },
+  {
+    "title": "10. Automatisert Skattjakt",
+    "description": "Lag et system som automatisk skjuler skatter og ledetråder, og som blir aktivert når Sky finner bestemte nøkkelgjenstander eller løsninger på magiske gåter.",
+    "materials": [
+      "Transportbånd og mekaniske armer",
+      "Skatter som gull, smykker og magiske objekter",
+      "Trykkplater og sensorer for å utløse hemmeligheter"
+    ],
+    "functions": [
+      "Skattejaktsystem som aktiveres ved spesifikke handlinger",
+      "Gåter og feller som utfordrer spilleren",
+      "Hemmelige rom og skatter som finnes gjennom mekaniske systemer"
+    ]
+  }
 ]
