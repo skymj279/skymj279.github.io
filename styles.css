@@ -1,47 +1,49 @@
-body {
+body, html {
     font-family: 'Arial', sans-serif;
     background-color: #f2f0f9;
     color: #4a4a4a;
     margin: 0;
     padding: 0;
-    font-size: 1.2rem;
+    width: 100%;
 }
 
 header, footer {
     background: #d6aadf;
     color: white;
     text-align: center;
-    padding: 25px;
-    font-size: 2rem;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-    width: 100%;
+    padding: 20px;
+    font-size: 1.8rem;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
 }
 
 h1, h2, h3 {
     font-family: 'Georgia', serif;
     color: #6a4c9c;
+}
+
+h2, h3 {
     text-align: center;
 }
 
 section, .plan, .story, .container {
-    width: 100%;
-    max-width: none;
+    width: 100vw;
     margin: 20px 0;
-    padding: 30px 10%;
+    padding: 30px 40px;
     background-color: #ffffff;
-    border-radius: 10px;
+    border-radius: 0;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 ul {
     list-style-type: none;
     padding-left: 0;
+    font-size: 1.1rem;
 }
 
 li {
     background-color: #f3e8fc;
-    margin: 10px 0;
-    padding: 12px;
+    margin: 8px 0;
+    padding: 12px 16px;
     border-radius: 8px;
     transition: background-color 0.3s;
 }
@@ -54,13 +56,13 @@ button.collapsible {
     background-color: #d6aadf;
     color: white;
     cursor: pointer;
-    padding: 12px;
+    padding: 12px 20px;
     width: 100%;
     border: none;
     text-align: left;
     font-size: 1.3rem;
     border-radius: 5px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 button.collapsible:hover {
@@ -75,9 +77,14 @@ button.collapsible:hover {
     border-radius: 5px;
 }
 
+footer {
+    font-size: 1.1rem;
+}
+
 .plan-title {
     font-size: 1.5rem;
     color: #6a4c9c;
+    font-weight: bold;
 }
 
 .plan-description {
@@ -87,5 +94,5 @@ button.collapsible:hover {
 
 .materials, .functions {
     font-size: 1.1rem;
-    margin-top: 10px;
+    margin-top: 12px;
 }
