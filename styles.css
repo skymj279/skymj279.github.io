@@ -1,10 +1,20 @@
-body, html {
+body {
     font-family: 'Arial', sans-serif;
     background-color: #f2f0f9;
     color: #4a4a4a;
     margin: 0;
     padding: 0;
-    width: 100%;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container-wide {
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 header, footer {
@@ -14,36 +24,34 @@ header, footer {
     padding: 20px;
     font-size: 1.8rem;
     text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2, h3 {
     font-family: 'Georgia', serif;
     color: #6a4c9c;
-}
-
-h2, h3 {
     text-align: center;
 }
 
-section, .plan, .story, .container {
-    width: 100vw;
+section, .plan, .story {
     margin: 20px 0;
-    padding: 30px 40px;
+    padding: 20px;
     background-color: #ffffff;
-    border-radius: 0;
+    border-radius: 12px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    font-size: 1.2rem;
 }
 
 ul {
     list-style-type: none;
     padding-left: 0;
-    font-size: 1.1rem;
 }
 
 li {
     background-color: #f3e8fc;
     margin: 8px 0;
-    padding: 12px 16px;
+    padding: 12px;
     border-radius: 8px;
     transition: background-color 0.3s;
 }
@@ -56,13 +64,13 @@ button.collapsible {
     background-color: #d6aadf;
     color: white;
     cursor: pointer;
-    padding: 12px 20px;
+    padding: 12px;
     width: 100%;
     border: none;
     text-align: left;
     font-size: 1.3rem;
     border-radius: 5px;
-    margin-bottom: 10px;
+    margin: 15px 0;
 }
 
 button.collapsible:hover {
@@ -72,27 +80,22 @@ button.collapsible:hover {
 .content {
     padding: 10px 20px;
     display: none;
-    overflow: hidden;
     background-color: #f3e8fc;
-    border-radius: 5px;
+    border-radius: 8px;
+    margin-bottom: 20px;
 }
 
 footer {
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
 .plan-title {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color: #6a4c9c;
-    font-weight: bold;
-}
-
-.plan-description {
-    font-size: 1.2rem;
-    color: #4a4a4a;
+    margin-bottom: 10px;
 }
 
 .materials, .functions {
     font-size: 1.1rem;
-    margin-top: 12px;
+    margin-top: 10px;
 }
