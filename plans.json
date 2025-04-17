@@ -140,5 +140,156 @@
       "Gåter og feller som utfordrer spilleren",
       "Hemmelige rom og skatter som finnes gjennom mekaniske systemer"
     ]
-  }
+  },
+  {
+  "title": "11. Magisk Postkontor",
+  "description": "Et søtt, automatisert postkontor med belter og armer fra Create, og en turtle som sorterer meldinger og leverer brev.",
+  "materials": [
+    "Belter og deployers (Create)",
+    "Kister og bøker",
+    "ComputerCraft turtle",
+    "Pastellfargede blokker og pynt"
+  ],
+  "functions": [
+    "Automatisk brevsortering",
+    "Levering med beltesystem",
+    "Turtle som sender meldinger"
+  ]
+},
+{
+  "title": "12. Blomstersorterer med AI",
+  "description": "En blomstersorteringsstasjon som bruker mekanikk fra Create og en turtle med smart kodesystem for fargegjenkjenning.",
+  "materials": [
+    "Blomster i alle farger",
+    "Belter og deployers (Create)",
+    "ComputerCraft turtle",
+    "Glass og tre for estetikk"
+  ],
+  "functions": [
+    "Fargesortering av blomster",
+    "Turtle med enkel AI",
+    "Oppbevaring i fargekodede kister"
+  ]
+},
+{
+  "title": "13. Drømmestol",
+  "description": "En stol koblet til en turtle og Create-maskiner som starter en animasjon og spiller avslappende tekst når Sky setter seg.",
+  "materials": [
+    "Stol og omgivelser med tepper",
+    "ComputerCraft monitor",
+    "Create motor og effekter",
+    "Pastelllys og partikler"
+  ],
+  "functions": [
+    "Starter visuell 'drøm'",
+    "Turtle spiller tekst",
+    "Skaper avslappende atmosfære"
+  ]
+},
+{
+  "title": "14. Trygghetsalarm",
+  "description": "Et sikkerhetssystem som varsler om mobs i nærheten og beskytter basen ved å aktivere skjulte dører eller lyder.",
+  "materials": [
+    "Mobdetektor (sensor eller turtle)",
+    "Create-motor for port og dører",
+    "Lys og lydvarsel",
+    "Glass og stål for utforming"
+  ],
+  "functions": [
+    "Advarsel ved mobnærhet",
+    "Turtle som sier fra",
+    "Sikkerhetsmekanismer aktivert"
+  ]
+},
+{
+  "title": "15. Magisk Ritualsirkel",
+  "description": "En sirkel med aktiverbare Create-maskiner og et skjult turtle-system som starter lys, lyd eller hemmelig tilgang.",
+  "materials": [
+    "Krystaller og stein",
+    "Redstone og Create maskiner",
+    "ComputerCraft turtle",
+    "Dekorasjoner med blomster og lys"
+  ],
+  "functions": [
+    "Aktiveres av spiller",
+    "Skjulte effekter og portaler",
+    "Ritualstemning og rollelek"
+  ]
+},
+{
+  "title": "16. Dagbokbibliotek",
+  "description": "Et bibliotek med bøker, der en monitor lar deg søke og hente riktig bok automatisk via en turtle og belter.",
+  "materials": [
+    "Bøker og bokhyller",
+    "ComputerCraft monitor og turtle",
+    "Create transportbånd",
+    "Tre og teppe for koselig stil"
+  ],
+  "functions": [
+    "Søk i bokdatabasen",
+    "Turtle henter ønsket bok",
+    "Create leverer den til deg"
+  ]
+},
+{
+  "title": "17. Butikkautomat",
+  "description": "En liten, sjarmerende butikkautomat som bruker Create og turtles for å ta betalt og levere varer magisk.",
+  "materials": [
+    "ComputerCraft monitor",
+    "Create belter og kister",
+    "Pynt i butikkstil",
+    "Magiske varer (custom books, mat, blokker)"
+  ],
+  "functions": [
+    "Automatisert handel",
+    "Visning av varer",
+    "Rollelek som butikkansatt"
+  ]
+},
+{
+  "title": "18. Skyenes Maskinrom",
+  "description": "Et skjult rom under Sky sin base med høyteknologiske, men magiske maskiner drevet av damp og kode.",
+  "materials": [
+    "Messing og kobber",
+    "Steam engines (Create)",
+    "ComputerCraft skjermer og turtles",
+    "Runer og glitrende dekor"
+  ],
+  "functions": [
+    "Kontrollrom for systemer",
+    "Magisk terminal for automatisering",
+    "Personlig datapanel for Sky"
+  ]
+},
+{
+  "title": "19. Kjæledyrautomat",
+  "description": "En stasjon som automatisk mater ulver eller katter og spiller søte meldinger fra en turtle når de nærmer seg.",
+  "materials": [
+    "Mat og sensorsystem",
+    "Create armer og hopper",
+    "ComputerCraft turtle med skript",
+    "Blomster og benker"
+  ],
+  "functions": [
+    "Automatisk fôring",
+    "Turtle som hilser",
+    "Rollelek med dyrepleie"
+  ]
+},
+{
+  "title": "20. Stjernehvelv",
+  "description": "Et observatorium koblet til et stjernekart i en monitor, hvor Create-maskineri åpner taket og turtle viser dagens stjernebilde.",
+  "materials": [
+    "Glasskuppel og teleskop",
+    "ComputerCraft monitor",
+    "Create roterende tak",
+    "Lysende partikler og pynt"
+  ],
+  "functions": [
+    "Viser stjernekart",
+    "Åpnes og lukkes automatisk",
+    "Gir en magisk astronomiopplevelse"
+  ]
+}
+
 ]
