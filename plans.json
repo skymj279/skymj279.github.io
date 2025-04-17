@@ -99,7 +99,7 @@
         ]
     },
     {
-        "title": "1. Magisk Transportnettverk",
+        "title": "8. Magisk Transportnettverk",
         "description": "Skap et magisk transportsystem ved å bruke Create-modifikasjonens mekanismer for å frakte varer, ressurser, og magiske skapninger mellom forskjellige steder.",
         "materials": [
             "Vognbaner og transportbånd",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "title": "2. Magiske Maskiner for Trolldom",
+        "title": "9. Magiske Maskiner for Trolldom",
         "description": "Lag et laboratorium hvor Sky kan bruke Create-modifikasjonens maskiner til å produsere magiske potions og runer som hun kan bruke til å forvandle ting.",
         "materials": [
             "Metall, stein og treverk for maskiner",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "title": "3. Automatisert Skattjakt",
+        "title": "10. Automatisert Skattjakt",
         "description": "Lag et system som automatisk skjuler skatter og ledetråder, og som blir aktivert når Sky finner bestemte nøkkelgjenstander eller løsninger på magiske gåter.",
         "materials": [
             "Transportbånd og mekaniske armer",
@@ -142,7 +142,7 @@
         ]
     },
     {
-        "title": "4. Magisk Hage med Automatisk Vanning",
+        "title": "11. Magisk Hage med Automatisk Vanning",
         "description": "Skap en hage med magiske planter og et automatisk vannesystem som bruker Create-modifikasjonens mekanismer for å holde plantene friske og magiske.",
         "materials": [
             "Farget glass og blomstermønstre",
@@ -156,7 +156,7 @@
         ]
     },
     {
-        "title": "5. Flygende Øyer med Skapninger",
+        "title": "12. Flygende Øyer med Skapninger",
         "description": "Bruk Create-mod til å lage svevende øyer som kan transporteres rundt i luften. Dette kan være hjem til magiske skapninger eller steder for eventyr.",
         "materials": [
             "Treverk og stein for øyer og plattformer",
@@ -169,10 +169,9 @@
             "Områder for rolige eventyr og utforskning"
         ]
     }
-]
-[
+
     {
-        "title": "8. Automatisk Magisk Gruvemaskin",
+        "title": "13. Automatisk Magisk Gruvemaskin",
         "description": "Bygg en automatisk gruve som bruker Create-modifikasjonen for å hente ressurser og ComputerCraft-datamaskiner for å analysere og logge utvinning av magiske steiner.",
         "materials": [
             "Trepilarer, jern og kobber",
@@ -187,7 +186,7 @@
         ]
     },
     {
-        "title": "9. Magisk Energiproduksjonssystem",
+        "title": "14. Magisk Energiproduksjonssystem",
         "description": "Lag et system som genererer magisk energi ved hjelp av Create-modifikasjonens vannhjul og mekanismer, og bruker ComputerCraft til å overvåke energinivåer og kontrollere bruken.",
         "materials": [
             "Steinblokker, treverk og mekaniske deler",
@@ -202,7 +201,7 @@
         ]
     },
     {
-        "title": "10. Magisk Maskinlaboratorium",
+        "title": "15. Magisk Maskinlaboratorium",
         "description": "Skap et laboratorium hvor Sky kan bruke både Create-modifikasjonen og ComputerCraft til å lage magiske maskiner som automatiserer trolldom og brygging av potions.",
         "materials": [
             "Jern, kobber og glass",
@@ -217,7 +216,7 @@
         ]
     },
     {
-        "title": "11. Magisk Transportnettverk med Datalogging",
+        "title": "16. Magisk Transportnettverk med Datalogging",
         "description": "Bygg et magisk transportsystem ved hjelp av Create-modifikasjonen for å frakte varer, og ComputerCraft for å logge og spore transporten i sanntid.",
         "materials": [
             "Vognbaner, transportbånd og jern",
@@ -232,7 +231,7 @@
         ]
     },
     {
-        "title": "12. Automatisert Magisk Labyrint",
+        "title": "17. Automatisert Magisk Labyrint",
         "description": "Lag en labyrint som kan endre seg automatisk, med mekaniske dører og feller styrt av ComputerCraft, og som gir magiske utfordringer for Sky.",
         "materials": [
             "Steinblokker, metall og mekaniske deler",
@@ -247,7 +246,7 @@
         ]
     },
     {
-        "title": "13. Magisk Datamaskin for Forvandling",
+        "title": "18. Magisk Datamaskin for Forvandling",
         "description": "Lag en datamaskin som kan bruke magiske steiner og ComputerCraft til å forvandle objekter i Minecraft-verdenen ved hjelp av spesifikke kommandoer.",
         "materials": [
             "ComputerCraft-datamaskiner, skjermer og tastaturer",
@@ -262,7 +261,7 @@
         ]
     },
     {
-        "title": "14. Automatisert Skattjakt med Datalogging",
+        "title": "19. Automatisert Skattjakt med Datalogging",
         "description": "Skap et system hvor Sky kan utforske og finne skatter ved hjelp av Create-modifikasjonens mekanismer og ComputerCraft for å registrere og overvåke skattjakten.",
         "materials": [
             "Jern, gull og steinblokker",
@@ -277,7 +276,7 @@
         ]
     },
     {
-        "title": "15. Magisk Skapningsfanger",
+        "title": "20. Magisk Skapningsfanger",
         "description": "Skap et system som fanger og holder magiske skapninger ved hjelp av Create-modifikasjonens mekaniske fangstsystemer og ComputerCraft for å overvåke og styre skapningene.",
         "materials": [
             "Trepilarer, metall og mekaniske deler",
