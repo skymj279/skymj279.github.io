@@ -4,10 +4,9 @@ body {
     color: #4a4a4a;
     margin: 0;
     padding: 0;
-    font-size: 1.2rem; /* større tekst */
+    font-size: 1.2rem;
 }
 
-/* Topp og bunn */
 header, footer {
     background: #d6aadf;
     color: white;
@@ -18,7 +17,6 @@ header, footer {
     width: 100%;
 }
 
-/* Overskrifter */
 h1, h2, h3 {
     font-family: 'Georgia', serif;
     color: #6a4c9c;
@@ -35,7 +33,6 @@ section, .plan, .story, .container {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* Lister */
 ul {
     list-style-type: none;
     padding-left: 0;
@@ -53,7 +50,6 @@ li:hover {
     background-color: #e1c6f3;
 }
 
-/* Kollapsbare knapper */
 button.collapsible {
     background-color: #d6aadf;
     color: white;
@@ -79,7 +75,6 @@ button.collapsible:hover {
     border-radius: 5px;
 }
 
-/* Plan-elementer */
 .plan-title {
     font-size: 1.5rem;
     color: #6a4c9c;
@@ -93,27 +88,4 @@ button.collapsible:hover {
 .materials, .functions {
     font-size: 1.1rem;
     margin-top: 10px;
-}
-
-/* Mobilrespons */
-@media screen and (max-width: 768px) {
-    body {
-        font-size: 1rem;
-    }
-
-    section, .plan, .story, .container {
-        padding: 20px;
-    }
-
-    button.collapsible {
-        font-size: 1rem;
-    }
-
-    .plan-title {
-        font-size: 1.2rem;
-    }
-
-    .plan-description, .materials, .functions {
-        font-size: 1rem;
-    }
 }
