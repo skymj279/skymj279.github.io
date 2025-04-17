@@ -194,6 +194,16 @@
                 })
                 .catch(error => console.error('Feil ved henting av JSON:', error));
         }
+                document.querySelectorAll('.collapsible').forEach(button => {
+            button.addEventListener('click', () => {
+                const content = button.nextElementSibling;
+                if (content.style.display === 'block') {
+                    content.style.display = 'none';
+                } else {
+                    content.style.display = 'block';
+                }
+            });
+        });
 
         // Kall funksjonen for å generere HTML når siden lastes
         window.onload = generatePlansHTML;
