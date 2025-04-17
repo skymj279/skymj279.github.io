@@ -12,7 +12,7 @@ header, footer {
     text-align: center;
     padding: 20px;
     font-size: 1.5rem;
-    text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2); /* Subtler shadow */
 }
 
 h1, h2, h3 {
@@ -60,10 +60,12 @@ button.collapsible {
     font-size: 1.2rem;
     border-radius: 5px;
     margin-bottom: 10px;
+    transition: background-color 0.3s, transform 0.3s;
 }
 
 button.collapsible:hover {
     background-color: #b08bb1;
+    transform: scale(1.05); /* Hover zoom */
 }
 
 .content {
@@ -91,4 +93,28 @@ footer {
 .materials, .functions {
     font-size: 1.0rem;
     margin-top: 10px;
+}
+
+/* Responsiv forbedring for mobilvisning */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 1rem;
+    }
+
+    .plan-title {
+        font-size: 1.1rem;
+    }
+
+    .plan-description, .materials, .functions {
+        font-size: 1rem;
+    }
+
+    button.collapsible {
+        font-size: 1rem;
+    }
+
+    section, .plan, .story, .container {
+        margin: 10px;
+        padding: 10px;
+    }
 }
