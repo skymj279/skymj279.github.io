@@ -1,0 +1,94 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f0f9;
+    color: #4a4a4a;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background: #d6aadf;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    color: #6a4c9c;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+section, .plan, .story, .container {
+    margin: 20px;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    background-color: #f3e8fc;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 8px;
+    transition: background-color 0.3s;
+}
+
+li:hover {
+    background-color: #e1c6f3;
+}
+
+button.collapsible {
+    background-color: #d6aadf;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button.collapsible:hover {
+    background-color: #b08bb1;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f3e8fc;
+    border-radius: 5px;
+}
+
+footer {
+    font-size: 1rem;
+}
+
+.plan-title {
+    font-size: 1.3rem;
+    color: #6a4c9c;
+}
+
+.plan-description {
+    font-size: 1.1rem;
+    color: #4a4a4a;
+}
+
+.materials, .functions {
+    font-size: 1.0rem;
+    margin-top: 10px;
+}
