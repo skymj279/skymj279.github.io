@@ -158,7 +158,7 @@
     <script>
         // Funksjon for å hente JSON-data fra fil og generere HTML
         function generatePlansHTML() {
-            fetch('plans.json')
+            fetch('https://skymj279.github.io/plans.json')
                 .then(response => response.json())
                 .then(plans => {
                     const container = document.getElementById('plans-container');
